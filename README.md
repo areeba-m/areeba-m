@@ -1,19 +1,18 @@
-# Areeba Mujahid :)
-### Software Engineer (with a soft spot for houseplants and yarn)
+# Areeba Mujahid
+### Software Engineer
+Hey! I’m **Areeba**, a final-year BS Software Engineering student at **FAST NUCES Lahore**, interested in backend, mobile/web development, and occasional AI/ML projects.
 
-Hey! I’m **Areeba**, a final-year BS Software Engineering student at **FAST NUCES Lahore**, interested in backend dev, mobile/web development, and occasional AI/ML projects that don’t take 4 hours to train.
-
-I love building things that actually work — APIs, backend systems, and mobile apps that don’t crash on launch (usually 👀).
+I love building things that actually work; APIs, backend systems, and mobile apps that don’t crash on launch (usually >-<).
 
 When I’m not coding, you’ll find me:  
 🌱 accidentally killing my houseplants  
-📚 reading (fantasy + fiction lover)  
+📚 reading (fantasy + literary fiction)  
 🧶 crocheting/knitting things I swear I’ll finish  
 🎨 painting or coloring in my secret sketchbook  
 
 ## What I’m Into (at the moment)
 
-- Building backend systems that feel clean and organized (code OCD is real)  
+- Building backend systems
 - Working on mobile + web apps  
 - Improving at system design and writing maintainable code  
 - Collecting hobbies like Pokémon (send help)  
